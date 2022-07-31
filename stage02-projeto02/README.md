@@ -12,4 +12,4 @@ Stage 01 - Desafio 1: Corrigindo bugs<br>
 ✅ Aplicação de fontes customizadas;<br>
 
 📌 Stacks: HTML | CSS<br>
-<a href="https://gabriel-adsv.github.io/projeto02/" rel="nofollow" target="_blank">Acesse o exercicio aqui</a>
+<a href="https://gabriel-adsv.github.io/projeto02/" target="_blank">Acesse o exercicio aqui</a>

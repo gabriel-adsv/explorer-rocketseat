@@ -11,4 +11,4 @@ Stage 03 - Desafio 4: Criando formulários<br>
 ✅ Checkbox customizado;<br>
 
 📌 Stacks: HTML | CSS
-<a href="https://gabriel-adsv.github.io/projeto05/" target="_blank">Acesse o exercicio aqui</a>
+<a href="https://gabriel-adsv.github.io/projeto04/" target="_blank">Acesse o exercicio aqui</a>

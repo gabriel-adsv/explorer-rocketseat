@@ -1,6 +1,6 @@
 🚀 Rocketseat's Explorer Course Documentation 📁
 
-Stage 01 - Desafio 1: Corrigindo bugs<br> 
+Stage 02 - Desafio 1: Corrigindo bugs<br> 
 📅 18/04/2022 🕛 Status: Finished ✔️
 
 ☑️ Task: Nesse desafio, recebemos o código do projeto 1 alterado e com bugs para fazer a correção.

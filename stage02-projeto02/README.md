@@ -1,6 +1,6 @@
 🚀 Rocketseat's Explorer Course Documentation 📁
 
-Stage 01 - Desafio 2: HTML semântico e acessibilidade<br> 
+Stage 02 - Desafio 2: HTML semântico e acessibilidade<br> 
 📅 19/04/2022 🕛 Status: Finished ✔️
 
 ☑️ Task: Nesse desafio, recebemos o código do projeto 2 alterado e com bugs para fazer a correção.
